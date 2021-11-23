@@ -22,11 +22,11 @@ Our research Question is **"Predict the accuracy of a person getting a stroke ba
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* Python, Jupiter
+* Python, Jupyter
 
 ### Executing program
 
-* Jupiter Notebook
+* Jupyter Notebook
 
 ## Authors
 
