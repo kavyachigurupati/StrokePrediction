@@ -12,6 +12,12 @@ Our research Question is **"Predict the accuracy of a person getting a stroke ba
 ## Data source link
 * https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
+## Conclusion
+
+* The details explanation about the project work is explained in the above [a link](Conclusion.docx).
+
+
+
 ## Future Work
 * Apply Modelling to the current
 * Our future goal would be to train the model in the least time possible. 
