@@ -1,6 +1,6 @@
 # Stroke Prediction
 ## Description
-The Stroke Prediction application was implemented as a final project for ITCS 6150 - Knowledge Discovery in Databases Course at University of North Carolina at Charlotte during Fall 2021.
+The Stroke Prediction application was implemented as a final project for **ITCS 6150 - Knowledge Discovery in Databases** Course at University of North Carolina at Charlotte during Fall 2021.
 
 Stroke is a medical disorder that occurs when there is damage to blood arteries. It can also happen if blood stops flowing to the brain.It is the most common cause of death and disability worldwide, according to the World Health Organization. It is the fifth-highest cause of mortality, according to the Centers for Disease Control and Prevention (CDC).
 
