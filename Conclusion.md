@@ -1,13 +1,5 @@
 # Stroke Prediction Conclusion
 
-**Q: Do I need to distribute file `README.md` and/or `LICENSE.md`?**
-
-**A:** No. The header `acutest.h` includes URL to our repo, copyright note and
-the MIT license terms inside of it. As long as you leave those intact, we are
-completely fine if you only add the header into your project. After all,
-the simple use and all-in-one-header nature of it is our primary aim.
-
-
 **Q: What was unique about the data ?**
 
 **A:** The features was multi variant and it had many features for which we applied label encoding. The data was biased because it tried to predict people did not get stroke
