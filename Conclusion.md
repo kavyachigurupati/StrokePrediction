@@ -32,11 +32,3 @@ We also removed one data entry for gender where it said Other.
 **Q: What future work would you like to do ?**
 
 **A:** The accuracy for the train for 95%  and the test was 90%. We would like to improve the accuracy using a neural network. Currently, the data set is limited so we did not include a neural network, but our future goal is to improve the data and add a neural network.
-
-|                     |               |                |          |               |                |          |
-|---------------------|---------------|----------------|----------|---------------|----------------|----------|
-|                     | Test Accuracy | Train Accuracy | F1 Score | Test Accuracy | Train Accuracy | F1 Score |
-| Logistic Regression |               |                |          |               |                |          |
-| Decision Tree       |               |                |          |               |                |          |
-| Random Forest       |               |                |          |               |                |          |
-
